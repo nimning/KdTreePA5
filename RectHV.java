@@ -3,7 +3,7 @@
  *  Compilation:  javac RectHV.java
  *  Execution:    java RectHV
  *  Dependencies: Point2D.java
- *  Name : Ma
+ *  Name : Ma Ning
  *  Implementation of 2D axis-aligned rectangle.
  *
  *************************************************************************/
