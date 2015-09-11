@@ -4,6 +4,7 @@
  *  Execution:    java RectHV
  *  Dependencies: Point2D.java
  *
+ *  Name: Ning
  *  Implementation of 2D axis-aligned rectangle.
  *
  *************************************************************************/
